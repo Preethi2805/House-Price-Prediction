@@ -88,23 +88,6 @@ Three models were trained and evaluated:
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/california-house-price-prediction.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script:
-   ```bash
-   jupyter notebook California_house_price_prediction.ipynb
-   ```
-4. Follow the steps in the notebook to preprocess the data, train the models, and evaluate the results.
-
----
-
 ## Future Work
 - Experiment with more advanced models like Gradient Boosting or Deep Learning.
 - Perform hyperparameter tuning to improve model performance.
