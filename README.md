@@ -49,6 +49,8 @@ The dataset used in this project is the **California Housing Dataset**, which co
 - **Geographical Visualization**: Scatter plots were used to visualize the geographical distribution of houses and their prices.
 - **Correlation Analysis**: A correlation matrix was used to identify the relationship between features and the target variable (`median_house_value`).
 
+![Plotting a scatter plot the location with the population and median house price](house_pricing_scatter_plot.png)
+
 ---
 
 ## Model Training
@@ -57,6 +59,8 @@ Three models were trained and evaluated:
    - Used as a baseline model.
    - Achieved an R-squared value of **0.633** on the training set.
    - Mean error on the validation set: **69,916**.
+
+![Bar plot](error_graph.png)
 
 2. **Random Forest Regressor**:
    - Achieved a mean error of **71,496** on the validation set.
