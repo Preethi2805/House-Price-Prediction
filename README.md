@@ -1,19 +1,5 @@
 # California House Price Prediction
 
-This project focuses on predicting house prices in California using machine learning models. The dataset used contains various features such as location, number of rooms, population, and median income, which are used to predict the median house value.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-
----
-
 ## Project Overview
 The goal of this project is to predict the median house value in California based on various features such as location, number of rooms, population, and median income. The project involves:
 - Data cleaning and preprocessing.
